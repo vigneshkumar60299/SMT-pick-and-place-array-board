@@ -1,4 +1,3 @@
-# SMT-pick-and-place-array-board
 # Aim:
 
 To automatically pick and place the SMD electronic components onto a array bare PCB accurately using an SMT pick-and-place machine.
@@ -71,10 +70,10 @@ The working of the ETS SMT MATE-660 SMT pick and place machine follows a sequent
 # Output
 
 ## Array bare PCB board
-
+![WhatsApp Image 2025-11-19 at 08 43 34_59876e92](https://github.com/user-attachments/assets/84450358-7477-46d5-ab10-c413e713031b)
 
 ## Array bare PCB board with components
-
+![WhatsApp Image 2025-11-19 at 08 43 56_df3cfdff](https://github.com/user-attachments/assets/e19f0047-85c4-41c6-a5e8-2f5b788975c8)
 
 # Result
-
+The SMT pick-and-place machine successfully picked and placed the SMD electronic components onto the array-type bare PCB with high placement accuracy and repeatability. All components were positioned with correct orientation and alignment across the entire PCB array.
